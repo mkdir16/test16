@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import WebAppInfo, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import CommandStart
 
-TOKEN = "ВАШ_ТОКЕН"
+TOKEN = "8797003440:AAGry4642kH6b1sO0IPaU0b_GTNHv6vLM7g"
 # URL, где развернут ваш фронтенд (например, на Vercel или GitHub Pages)
 WEB_APP_URL = "https://your-mini-app-url.vercel.app"
 
