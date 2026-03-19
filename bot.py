@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 
 TOKEN = "8797003440:AAGry4642kH6b1sO0IPaU0b_GTNHv6vLM7g"
 # URL, где развернут ваш фронтенд (например, на Vercel или GitHub Pages)
-WEB_APP_URL = "https://your-mini-app-url.vercel.app"
+WEB_APP_URL = "https://mkdir16.github.io/test16/"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
